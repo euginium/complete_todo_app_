@@ -1,6 +1,6 @@
-# todo_app
+# Complete todo_app
 
-A new Flutter application.
+A complete todo app made on Flutter with Provider and other dependencies.
 
 ## Getting Started
 
